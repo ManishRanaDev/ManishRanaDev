@@ -99,17 +99,6 @@ Building scalable, high-performance AI-powered applications for fintech, healthc
 - **Compliance**: Full HIPAA compliance with end-to-end encryption
 - Features: Secure image storage, patient data management, audit trails
 
----
-
-## 📊 GitHub Stats
-
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishRanaDev&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRanaDev&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManishRanaDev&theme=radical&hide_border=true)
-
----
 
 ## 💡 Key Achievements
 
